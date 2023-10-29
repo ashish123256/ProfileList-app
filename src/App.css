@@ -1,0 +1,24 @@
+body {
+  margin: 0px;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: beige;
+}
+
+.title {
+  font-family: "Open Sans";
+  text-decoration: underline;
+  font-size: 32px;
+  color: #183b56;
+  margin-bottom: 30px;
+}
+
+ul {
+  padding: 0px;
+}
